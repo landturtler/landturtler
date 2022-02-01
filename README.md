@@ -8,7 +8,7 @@ About me...
 
 
 💼 **Work**
-- Hyundai Auto Ever
+- Hyundai AutoEver
 
 
 ⚡ **Interest**
