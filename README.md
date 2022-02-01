@@ -16,8 +16,7 @@ About me...
 - Database tuning 
 
 
-![landturtler's github stats](https://github-readme-stats.vercel.app/api?username=landturtler&show_icons=true)
-[![landturtler's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=landturtler&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/landturtler)
+![landturtler's github stats](https://github-readme-stats.vercel.app/api?username=landturtler&show_icons=true) [![landturtler's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=landturtler&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/landturtler)
 
 <!--
 **landturtler/landturtler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
