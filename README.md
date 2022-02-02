@@ -12,8 +12,9 @@ About me...
 
 
 ⚡ **Interest**
-- Problem Solving (PS)
+- Problem solving (PS)
 - Database tuning 
+- Embedded system
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=buc03226)](https://solved.ac/buc03226)
