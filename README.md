@@ -9,6 +9,7 @@ About me...
 
 💼 **Work**
 - Hyundai AutoEver
+- Samsung DX
 
 
 ⚡ **Interest**
